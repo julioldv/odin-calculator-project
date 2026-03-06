@@ -1,5 +1,5 @@
 const display = document.querySelector("#display");
-const buttonsContainer = document.querySelector(".buttons-container");
+const buttonsContainer = document.querySelector(".keys");
 
 
 const add = (a, b) => a + b;
